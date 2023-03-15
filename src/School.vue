@@ -2,7 +2,6 @@
 import HeaderVue from './components/HeaderVue.vue'
 import FormVue from './components/Form.vue'
 import GalleryVue from './components/Gallery.vue'
-import Vfooter from './components/FooterVue.vue'
 </script>
 
 <template>
@@ -14,7 +13,6 @@ import Vfooter from './components/FooterVue.vue'
     <FormVue />
     <GalleryVue />
   </div>
-  <Vfooter />
 </template>
 
 <style scoped>
